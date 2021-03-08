@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "img": "https://dospace.org/wp-content/uploads/2018/03/800px-Hedy_lamarr_-_1940-1.jpg",
+        "name": "Hedy Lamarr",
+        "years": "1914 - 2000",
+        "quote": "Any girl can be glamorous. All you have to do is stand still and look stupid.",
+        "title": "För den breda massan var Hedy Lamarr känd som skådespelare och förebild till den tecknade Snövit. Men vad inte alla vet är att hon även var uppfinnare.",
+        "description": "På dagtid är Hedy Lamarr skådespelare, känd som en av de vackraste kvinnorna i världen. Men under kvällarna  ägnar hon sig åt sitt stora intresse – innovation och uppfinningar. Andra Världskriget och dess fasor påverkar henne starkt. Lamarr vill på något sätt bidra till de allierade styrkorna och fokuserar på att utveckla en lösning för att möjliggöra radiostyrning av torpeder. Hennes bidrag blir  uppfinningen ”Secret Communications System”. Tillsammans med affärspartnern George Antheil lägger hon därmed grunden för dagens trådlösa kommunikation, så som GPS, Wifi och Bluetooth. Vid tiden är den amerikanska militären dock inte särskilt mottaglig för lösningar som kommer från den civila världen, patentet klassificeras som topphemligt och blir till en början liggande.  Först 1962, i samband med Kuba-krisen, plockas idén upp och tekniken börjar användas och vidareutvecklas både av militären och senare av privata företag. I dag kan spår av hennes innovation hittas i de flesta digitala produkter som använder trådlös kommunikation."
+    },
+    {
+        "id": 2,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg",
+        "name": "Ada Lovelace",
+        "years": "1815 - 1852",
+        "quote": "The more I study, the more insatiable do I feel my genius for it to be.",
+        "title": "Ada Lovelace föddes in i den engelska societeten och var inte precis predestinerad att bli matematiker. Men det blev hon. Och mer därtill.",
+        "description": "Adas mamma, Anne Byron, uppmuntrade tidigt dotterns intresse för matematik och logik, i syfte att kunskapen skulle fungera som motvikt till den utlevande fadern Lord Byron, känd poet och äventyrare. När Ada Lovelace som 17-åring mötte ingenjören Charles Babbage kunde de kombinera sina intressen. Babbage hade tagit fram mekaniska räknemaskiner och Ada Lovelace blev intresserad av dem. Hon skapade en komplett algoritm till att lösa ett matematiskt program, som fanns bifogad i en anteckning till en översättning. Men eftersom ingen av maskinerna Babbage konstruerade någonsin blev färdigställda testades den aldrig i praktiken. Men likväl anses hennes algoritmer vara världens första (något som uppmärksammades först 1953), och Babbage kallas emellanåt för datorernas fader. Ada Lovelace skrev också det första inlägget om vad som nu kallas för artifici­ell intelli­gens. Hon förutsåg också att framtidens datorer inte bara kunna programmeras för att räkna, utan även skriva, rita och skapa musik. Ada Lovelace dog 36 år gammal, 1852. Hon har i modern tid bland annat firats av Google och gett namn till ett programmeringsspråk (Ada)."
+    },
+    {
+        "id": 3,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg",
+        "name": "Grace Hopper",
+        "years": "1906 - 1992",
+        "quote": "",
+        "title": "Grace Hopper intresserade sig tidigt för maskiner och senare för datorer. Matematikintresset ärvde hon från sin mamma.",
+        "description": "Karriären bedrevs i USA:s flotta där hon under andra världskriget arbetade med datorer (beräkningsautomater). Hon fann dem krångliga att programmera, och konstruerade därför ett program som kunde översätta text till datorspråk. Uppfinningen var världens första kompilator, Flow-matic, och den färdigställdes 1952. Behovet av kompilatorer inom andra branscher visade sig stort och Grace Hopper initierade därför arbetet med att skapa programmeringsspråket Cobol (Common business oriented language) 1959, som underlättade arbetet bland annat för personaladministration och orderhantering. Än i dag används Cobol i bankväsendet. Grace Hopper anses också vara personen som uppfann ordet ”bugg”, och var också den som avlägsnade den första buggen."
+    },
+    {
+        "id": 4,
+        "img": "https://www.nasa.gov/sites/default/files/thumbnails/image/26646856911_ca242812ee_o_1.jpg",
+        "name": "Katherine Johnson",
+        "years": "1918 - 2020",
+        "quote": "Like what you do, and then you will do your best.",
+        "title": "Katherine har bl.a gjort sig känd för att ha tagit fram beräkningarna för NASA:s första rymdresor med människor i början på 60-talet.",
+        "description": "Katherine Johnson arbetade i över 33 år med NASA:s utforskade av rymden. Hon var exempelvis delaktig i arbetet som ledde fram till Neil Armstrongs första steg på månen. Men det var först långt senare som hon fick sitt stora erkännande. Att hon inte fick mer uppmärksamhet tidigare berodde antagligen på den segregering som fanns på NASA i början på 50-talet. 2015 tilldelades Katherine ”The presidential medal of freedom” av dåvarande presidenten Barack Obama. Det är den mest ärofyllda utmärkelse som presidenten kan ge en civilist."
+    },
+    {
+        "id": 5,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Margaret_Hamilton.gif/1200px-Margaret_Hamilton.gif",
+        "name": "Margaret Hamilton",
+        "years": "1936 -",
+        "quote": "Don’t let fear get in the way and don’t be afraid to say “I don’t know” or “I don’t understand” – no question is a dumb question. And don’t always listen to the so-called experts!",
+        "title": "Hamilton skapade termenmjukvaruutvecklare för att beskriva sitt arbete. Hon hjälpte till att skriva datorkoden för kommandot och månmodulerna som används påApollo- uppdrag till månen i slutet av 1960-talet och början av 70-talet.",
+        "description": "I början av 1960-talet gick Hamilton med i MIT: s Lincoln Laboratory, där hon var involverad i projektet Semi-Automatic Ground Environment (SAGE), det första amerikanska luftförsvarssystemet. Hon skrev särskilt programvara för ett program för att identifiera fiendens flygplan. Hamilton arbetade sedan vid MIT: s Instrumentation Laboratory (nu det oberoende Charles Stark Draper Laboratory), som tillhandahöll flygteknik för National Aeronautics and Space Administration(NASA). Hon ledde ett team som fick i uppdrag att utveckla programvaran för vägledning och styrsystem för kommandot under flygningen och månmodulerna för Apollo-uppdragen. På den tiden lärde inga skolor programvaruteknik, så teammedlemmarna var tvungna att utarbeta några problem på egen hand. Hamilton koncentrerade sig specifikt på programvara för att upptäcka systemfel och för att återställa information vid en datorkrasch. Båda dessa element var avgörande under Apollo 11- uppdraget (1969), som tog astronauterna Neil Armstrong och Buzz Aldrin till månen."
+    },
+    {
+        "id": 5,
+        "img": "https://www.h-its.org/wp-content/uploads/2017/01/Portrait_Adele_Goldberg.jpg",
+        "name": "Adele Goldberg",
+        "years": "1945 -",
+        "quote": "Don't ask whether you can do something, but how to do it.",
+        "title": "Dr. Adele Goldberg är en datavetare som deltog i utvecklandet av programmeringsspråket Smalltalk-80 och olika begrepp relaterade till objektorienterad programmering, medan hon arbetade som forskare vid Xerox Palo Alto Research Center, på 1970-talet.",
+        "description": "Dr. Adele Goldberg är en av de mest respekterade personerna i programvaruindustrin. Hon arbetade på Xerox Palo Alto Research Center i många år och är grundare av ParcPlace-Digitalk, ett företag som producerar applikationsutvecklingsmiljöer för programvaruutvecklare. Dr. Goldberg har fungerat som president för ACM och har fått många utmärkelser för sina bidrag till datorer. Tillsammans med Alan Kay utvecklade Dr. Goldberg Smalltalk och skrev mycket av dokumentationen. Smalltalk användes för att prototypa WIMP-gränssnittet (windows, ikoner, menyer, pekare) på Xerox Parc, hörnstenen för dagens moderna grafiska användargränssnitt."
+    },
+    {
+        "id": 6,
+        "img": "https://i.pinimg.com/originals/02/4d/fc/024dfc05d55a482e318f2d90a1a9fbd9.jpg",
+        "name": "Stephanie 'Steve' Shirley",
+        "years": "1933 -",
+        "quote": "Find something you really care about, get trained, surround yourself with first class people... and then enjoy.",
+        "title": "Dame Vera Stephanie 'Steve' Shirley CH DBE FRENG FBCS är en brittisk pionjär för informationsteknik, affärskvinna och filantrop.",
+        "description": "Dame Stephanie Shirley CH är en framgångsrik IT-entreprenör som blev ivrig filantrop. Efter att ha anlänt till Storbritannien som ensamkommande barnflykting 1939 startade hon det som blev Xansa plc (nu en del av Sopra-gruppen) på sitt matbord med £ 6 1962. På 25 år som dess verkställande direktör utvecklade hon det till en ledande affärsteknologigrupp, banbrytande på nya arbetsmetoder och förändra professionella kvinnors ställning (särskilt inom högteknologi) under vägen. Hennes Dameship i Millennium-utmärkelsen var för tjänster till IT. Hon tilldelades Order of Companions of Honor i drottningens födelsedagsutmärkelser i juni 2017."
+    },
+    {
+        "id": 7,
+        "img": "https://i.pinimg.com/originals/02/4d/fc/024dfc05d55a482e318f2d90a1a9fbd9.jpghttps://1734811051.rsc.cdn77.org/data/images/full/16262/megan-smith.jpg?w=600&h=300",
+        "name": "Megan Smith",
+        "years": "1964 -",
+        "quote": "We know that diversity can sometimes be more uncomfortable because things are less familiar - but it gets the best results.",
+        "title": "I september 2014 utnämnde president Obama Megan Smith till USA: s Chief Technology Officer (CTO) vid Office of Science and Technology Policy. I denna roll fungerar hon som assistent för presidenten. Som amerikansk CTO fokuserar Smith på hur teknikpolitik, data och innovation kan främja USA:s framtid.",
+        "description": "Megan Smith är en prisbelönt entreprenör, ingenjör och teknikevangelist. Hon var senast vice vicepresident på Google, först ledande New Business Development - där hon ledde tidiga partnerskap, pilotundersökningar och teknologilicenser i Googles globala teknik- och produktteam i nio år - och senare som VP i ledarskapsteamet på Google [x] - där hon var med och skapade företagets 'SolveForX' innovationsgemenskapsprojekt samt dess 'WomenTechmakers' tekniska mångfaldsinitiativ och arbetade med en rad andra projekt. Under sin tid ledde hon företagets förvärv av större plattformar som Google Earth, Google Maps och Picasa, och fungerade också som GM för Google.org under dess tekniska övergång och lade till Google Crisis Response, Google for Nonprofits och Earth Outreach / Engine och ökat medarbetarengagemang."
+    },
+    {
+        "id": 8,
+        "img": "https://images.opoyi.net/opoyi_FTvxszQmd.jpg?tr=w-345,q-70,dpr-2",
+        "name": "Mary Jackson",
+        "years": "1921 - 2005",
+        "quote": "Every time we have a chance to get ahead they move the finish line. Every time.",
+        "title": "Mary Jackson var en framgångsrik NASA-ingenjör och förespråkare för kvinnor och minoriteter inom området.",
+        "description": "Som ingenjör i det helt svarta West Area Computing-sektionen var hon inblandad i vindtunnlar och flygexperiment. Hennes jobb var att extrahera relevanta data från experiment och flygprov. Hon försökte också hjälpa andra kvinnor att gå vidare i sin karriär, enligt biografin, genom att ge dem råd om vilka utbildningsmöjligheter de ska bedriva. Efter 30 år med NACA och NASA (vid vilken tidpunkt hon var ingenjör) bestämde Jackson sig för att bli en jämställdhetsspecialist för att hjälpa kvinnor och minoriteter. Även om det beskrivs som en slags arbetare bakom kulisserna, hjälpte hon många människor att bli befordrade eller bli handledare. Hon gick i pension från NASA 1985. Jackson dog den 11 februari 2005 vid 83 års ålder."
+    },
+    {
+        "id": 9,
+        "img": "https://miro.medium.com/max/16594/1*IqhqfSBBIKWib5e6xnLqrg.jpeg",
+        "name": "Dorothy Vaughan",
+        "years": "1910 - 2008",
+        "quote": "Separate and equal are two different things. Just 'cause it's the way, doesn't make it right, understand?",
+        "title": "Dorothy Johnson Vaughan var en afroamerikansk matematiker och mänsklig dator som arbetade för National Advisory Committee for Aeronautics (NACA) och NASA vid Langley Research Center i Hampton, Virginia. 1949 blev hon tillförordnad chef för West Area Computers, den första afroamerikanska kvinnan som övervakade personal vid centrumet.",
+        "description": "Vaughan är en av kvinnorna i Margot Lee Shetterlys historia Hidden Figures: The Story of the African-American Women Who Helped Win the Space Race (2016). Den anpassades som en biografisk film med samma namn, släpptes också 2016."
+    }
+]
