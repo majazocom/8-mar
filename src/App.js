@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import Card from './components/Card';
+import Clock from './components/Clock';
 
 function App() {
   let rolemodels = require('./assets/wit.json');
@@ -16,6 +17,7 @@ function App() {
     <div className="App">
       <header>
         <h1>International Womens Day</h1>
+        <Clock />
       </header>
       <main>
         {
