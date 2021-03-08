@@ -45,15 +45,6 @@
         "description": "I början av 1960-talet gick Hamilton med i MIT: s Lincoln Laboratory, där hon var involverad i projektet Semi-Automatic Ground Environment (SAGE), det första amerikanska luftförsvarssystemet. Hon skrev särskilt programvara för ett program för att identifiera fiendens flygplan. Hamilton arbetade sedan vid MIT: s Instrumentation Laboratory (nu det oberoende Charles Stark Draper Laboratory), som tillhandahöll flygteknik för National Aeronautics and Space Administration(NASA). Hon ledde ett team som fick i uppdrag att utveckla programvaran för vägledning och styrsystem för kommandot under flygningen och månmodulerna för Apollo-uppdragen. På den tiden lärde inga skolor programvaruteknik, så teammedlemmarna var tvungna att utarbeta några problem på egen hand. Hamilton koncentrerade sig specifikt på programvara för att upptäcka systemfel och för att återställa information vid en datorkrasch. Båda dessa element var avgörande under Apollo 11- uppdraget (1969), som tog astronauterna Neil Armstrong och Buzz Aldrin till månen."
     },
     {
-        "id": 5,
-        "img": "https://www.h-its.org/wp-content/uploads/2017/01/Portrait_Adele_Goldberg.jpg",
-        "name": "Adele Goldberg",
-        "years": "1945 -",
-        "quote": "Don't ask whether you can do something, but how to do it.",
-        "title": "Dr. Adele Goldberg är en datavetare som deltog i utvecklandet av programmeringsspråket Smalltalk-80 och olika begrepp relaterade till objektorienterad programmering, medan hon arbetade som forskare vid Xerox Palo Alto Research Center, på 1970-talet.",
-        "description": "Dr. Adele Goldberg är en av de mest respekterade personerna i programvaruindustrin. Hon arbetade på Xerox Palo Alto Research Center i många år och är grundare av ParcPlace-Digitalk, ett företag som producerar applikationsutvecklingsmiljöer för programvaruutvecklare. Dr. Goldberg har fungerat som president för ACM och har fått många utmärkelser för sina bidrag till datorer. Tillsammans med Alan Kay utvecklade Dr. Goldberg Smalltalk och skrev mycket av dokumentationen. Smalltalk användes för att prototypa WIMP-gränssnittet (windows, ikoner, menyer, pekare) på Xerox Parc, hörnstenen för dagens moderna grafiska användargränssnitt."
-    },
-    {
         "id": 6,
         "img": "https://i.pinimg.com/originals/02/4d/fc/024dfc05d55a482e318f2d90a1a9fbd9.jpg",
         "name": "Stephanie 'Steve' Shirley",
@@ -88,5 +79,14 @@
         "quote": "Separate and equal are two different things. Just 'cause it's the way, doesn't make it right, understand?",
         "title": "Dorothy Johnson Vaughan var en afroamerikansk matematiker och mänsklig dator som arbetade för National Advisory Committee for Aeronautics (NACA) och NASA vid Langley Research Center i Hampton, Virginia. 1949 blev hon tillförordnad chef för West Area Computers, den första afroamerikanska kvinnan som övervakade personal vid centrumet.",
         "description": "Vaughan är en av kvinnorna i Margot Lee Shetterlys historia Hidden Figures: The Story of the African-American Women Who Helped Win the Space Race (2016). Den anpassades som en biografisk film med samma namn, släpptes också 2016."
+    },
+    {
+        "id": 10,
+        "img": "https://www.h-its.org/wp-content/uploads/2017/01/Portrait_Adele_Goldberg.jpg",
+        "name": "Adele Goldberg",
+        "years": "1945 -",
+        "quote": "Don't ask whether you can do something, but how to do it.",
+        "title": "Dr. Adele Goldberg är en datavetare som deltog i utvecklandet av programmeringsspråket Smalltalk-80 och olika begrepp relaterade till objektorienterad programmering, medan hon arbetade som forskare vid Xerox Palo Alto Research Center, på 1970-talet.",
+        "description": "Dr. Adele Goldberg är en av de mest respekterade personerna i programvaruindustrin. Hon arbetade på Xerox Palo Alto Research Center i många år och är grundare av ParcPlace-Digitalk, ett företag som producerar applikationsutvecklingsmiljöer för programvaruutvecklare. Dr. Goldberg har fungerat som president för ACM och har fått många utmärkelser för sina bidrag till datorer. Tillsammans med Alan Kay utvecklade Dr. Goldberg Smalltalk och skrev mycket av dokumentationen. Smalltalk användes för att prototypa WIMP-gränssnittet (windows, ikoner, menyer, pekare) på Xerox Parc, hörnstenen för dagens moderna grafiska användargränssnitt."
     }
 ]
