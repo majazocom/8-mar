@@ -1,7 +1,24 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import './App.css';
 import Card from './components/Card';
 import Clock from './components/Clock';
+
+const themes = {
+  hotpink: {
+    background: "hotpink",
+    textColor: "#ffffff"
+  },
+  teal: {
+    background: "teal",
+    textColor: "#000000"
+  },
+  green: {
+    background: "light-green",
+    textColor: "#000000"
+  }
+}
+
+export const ThemeContext = React.createContext(themes.hotpink);
 
 function App() {
   let rolemodels = require('./assets/wit.json');
@@ -14,7 +31,7 @@ function App() {
   }, [currentRolemodel]);
 
   return (
-    <div className="App">
+    <ThemeContext.Provider value={themes.hotpink} className="App">
       <header>
         <h1>International Womens Day</h1>
         <Clock />
@@ -26,7 +43,7 @@ function App() {
           )
         }
       </main>
-    </div>
+    </ThemeContext.Provider>
   );
 }
 
